@@ -42,5 +42,6 @@ yarn-error.*
 
 # editor/tool folders and local build artifacts
 .claude/
+.kiro/
 two-truths-web.zip
 run-web.sh
