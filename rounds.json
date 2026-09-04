@@ -364,11 +364,11 @@
     "topic": "Star Trek",
     "statements": [
       {
-        "text": "Star Trek: The Next Generation is set roughly a century after the original series.",
+        "text": "Jean-Luc Picard captains the Enterprise-D in The Next Generation.",
         "isLie": false
       },
       {
-        "text": "Jean-Luc Picard captains the Enterprise-D in The Next Generation.",
+        "text": "Star Trek: The Next Generation is set roughly a century after the original series.",
         "isLie": false
       },
       {
@@ -382,29 +382,11 @@
     "topic": "Star Trek",
     "statements": [
       {
-        "text": "The original Star Trek series first aired in the 1960s.",
-        "isLie": false
-      },
-      {
-        "text": "Deep Space Nine is set primarily on a space station rather than a starship.",
-        "isLie": false
-      },
-      {
-        "text": "Tribbles are dangerous predators that hunt the crew.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-5",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "The character Worf is a Klingon who serves in Starfleet.",
-        "isLie": false
-      },
-      {
         "text": "The Borg assimilate other species with the phrase \"resistance is futile.\"",
+        "isLie": false
+      },
+      {
+        "text": "Worf is a Klingon who serves in Starfleet.",
         "isLie": false
       },
       {
@@ -414,25 +396,7 @@
     ]
   },
   {
-    "id": "trek-6",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "The transporter is used to beam crew members to and from planets.",
-        "isLie": false
-      },
-      {
-        "text": "Captain Janeway commands the USS Voyager.",
-        "isLie": false
-      },
-      {
-        "text": "The Federation’s home planet and capital is Qo’noS.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-7",
+    "id": "trek-5",
     "topic": "Star Trek",
     "statements": [
       {
@@ -450,33 +414,15 @@
     ]
   },
   {
-    "id": "trek-8",
+    "id": "trek-6",
     "topic": "Star Trek",
     "statements": [
       {
-        "text": "Gene Roddenberry created Star Trek.",
+        "text": "Spock serves as science officer under Captain Kirk.",
         "isLie": false
       },
-      {
-        "text": "The Ferengi are known for prizing profit and commerce.",
-        "isLie": false
-      },
-      {
-        "text": "Romulans and Vulcans are believed to share no common ancestry whatsoever.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-9",
-    "topic": "Star Trek",
-    "statements": [
       {
         "text": "Dr. McCoy is often called by the nickname \"Bones.\"",
-        "isLie": false
-      },
-      {
-        "text": "Star Trek: The Next Generation ran for seven seasons.",
         "isLie": false
       },
       {
@@ -486,43 +432,7 @@
     ]
   },
   {
-    "id": "trek-10",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "The Prime Directive forbids Starfleet from interfering with less advanced civilizations.",
-        "isLie": false
-      },
-      {
-        "text": "Uhura served as communications officer aboard the Enterprise.",
-        "isLie": false
-      },
-      {
-        "text": "A \"red shirt\" crew member is famous in fan lore for always surviving danger.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-11",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Star Trek: First Contact features the Borg as the main antagonists.",
-        "isLie": false
-      },
-      {
-        "text": "Spock serves as science officer under Captain Kirk.",
-        "isLie": false
-      },
-      {
-        "text": "Klingon is not a real constructed language and cannot actually be spoken.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-12",
+    "id": "trek-7",
     "topic": "Star Trek",
     "statements": [
       {
@@ -530,7 +440,7 @@
         "isLie": false
       },
       {
-        "text": "The Enterprise is a starship, not a submarine.",
+        "text": "Gene Roddenberry created Star Trek.",
         "isLie": false
       },
       {
@@ -540,97 +450,7 @@
     ]
   },
   {
-    "id": "trek-13",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Geordi La Forge wears a visor that lets him see despite being blind.",
-        "isLie": false
-      },
-      {
-        "text": "The Enterprise computer’s voice was performed by Majel Barrett.",
-        "isLie": false
-      },
-      {
-        "text": "Starfleet Academy is located on the planet Vulcan.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-14",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "A \"communicator\" is used by the crew to talk across distances.",
-        "isLie": false
-      },
-      {
-        "text": "Wesley Crusher is the son of Dr. Beverly Crusher.",
-        "isLie": false
-      },
-      {
-        "text": "The starship Enterprise runs entirely on solar panels.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-15",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Captain Sisko commands Deep Space Nine.",
-        "isLie": false
-      },
-      {
-        "text": "The Defiant is a warship introduced in Deep Space Nine.",
-        "isLie": false
-      },
-      {
-        "text": "The Enterprise crew never encounters time travel in any series.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-16",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Seven of Nine is a former Borg who joins the crew of Voyager.",
-        "isLie": false
-      },
-      {
-        "text": "Voyager’s story centers on a ship stranded far from home trying to return.",
-        "isLie": false
-      },
-      {
-        "text": "The Doctor on Voyager is a human, not a hologram.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-17",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Klingons value honor highly in their warrior culture.",
-        "isLie": false
-      },
-      {
-        "text": "A bat’leth is a bladed Klingon weapon.",
-        "isLie": false
-      },
-      {
-        "text": "The Federation and the Klingons have never been at war.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-18",
+    "id": "trek-8",
     "topic": "Star Trek",
     "statements": [
       {
@@ -643,42 +463,6 @@
       },
       {
         "text": "The original series was set in the distant past, before Earth had spaceflight.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-19",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Deanna Troi is an empath who serves as ship’s counselor.",
-        "isLie": false
-      },
-      {
-        "text": "Riker is Picard’s first officer on the Enterprise-D.",
-        "isLie": false
-      },
-      {
-        "text": "Androids like Data are common and mass-produced throughout the Federation.",
-        "isLie": true
-      }
-    ]
-  },
-  {
-    "id": "trek-20",
-    "topic": "Star Trek",
-    "statements": [
-      {
-        "text": "Warp speeds are measured in \"warp factors.\"",
-        "isLie": false
-      },
-      {
-        "text": "The Enterprise-D is destroyed in the film Star Trek: Generations.",
-        "isLie": false
-      },
-      {
-        "text": "Transporters work by physically flying crew members on tiny jetpacks.",
         "isLie": true
       }
     ]
