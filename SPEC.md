@@ -12,14 +12,18 @@ a native iOS app in Swift/SwiftUI with offline peer-to-peer play).
 - **Statement**: `{ text: string, isLie: boolean }`
 - **Round**: `{ id: string, topic: string, statements: Statement[] }`
   - Every round has exactly 3 statements, exactly one with `isLie: true`.
-- Content lives in `rounds.json` (108 rounds across 16 categories). This file is
+- Content lives in `rounds.json` (96 rounds across 12 categories). This file is
   the portable source of truth for content and drops directly into a Swift
   `Codable` struct.
 
 Categories (with counts at time of writing): Outer Space (8), Animals (10),
-Star Trek (20), Harry Potter (6), Food (6), History (5), The Human Body (5),
-Geography (5), Science (5), Sports (5), Movies & Pop Culture (5), Friends (6),
-Seinfeld (6), The Office (6), Music (5), Technology (5).
+Popular Shows (26), Popular Movies (11), Food (6), History (5), The Human Body
+(5), Geography (5), Science (5), Sports (5), Music (5), Technology (5).
+
+Note: "Popular Shows" and "Popular Movies" are deliberately generic labels that
+group trivia about well-known TV shows and films without using trademarked
+franchise names as category branding (see the legal/IP notes in steering). The
+questions state facts about those works in our own words.
 
 ## Modes
 

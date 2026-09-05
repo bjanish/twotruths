@@ -325,7 +325,7 @@
   },
   {
     "id": "trek-1",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Captain Kirk’s middle name is Tiberius.",
@@ -343,7 +343,7 @@
   },
   {
     "id": "trek-2",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The Vulcan salute was created by actor Leonard Nimoy.",
@@ -361,7 +361,7 @@
   },
   {
     "id": "trek-3",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Jean-Luc Picard captains the Enterprise-D in The Next Generation.",
@@ -379,7 +379,7 @@
   },
   {
     "id": "trek-4",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The Borg assimilate other species with the phrase \"resistance is futile.\"",
@@ -397,7 +397,7 @@
   },
   {
     "id": "trek-5",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The holodeck creates realistic simulated environments using holograms.",
@@ -415,7 +415,7 @@
   },
   {
     "id": "trek-6",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Spock serves as science officer under Captain Kirk.",
@@ -433,7 +433,7 @@
   },
   {
     "id": "trek-7",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Q is a nearly omnipotent being who torments Captain Picard.",
@@ -451,7 +451,7 @@
   },
   {
     "id": "trek-8",
-    "topic": "Star Trek",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Scotty is the Enterprise’s chief engineer in the original series.",
@@ -469,7 +469,7 @@
   },
   {
     "id": "hp-1",
-    "topic": "Harry Potter",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Harry Potter has a lightning-bolt scar on his forehead.",
@@ -487,7 +487,7 @@
   },
   {
     "id": "hp-2",
-    "topic": "Harry Potter",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Hermione Granger is known for being very clever and studious.",
@@ -505,7 +505,7 @@
   },
   {
     "id": "hp-3",
-    "topic": "Harry Potter",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Hogwarts has four houses: Gryffindor, Slytherin, Hufflepuff, and Ravenclaw.",
@@ -523,7 +523,7 @@
   },
   {
     "id": "hp-4",
-    "topic": "Harry Potter",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Lord Voldemort is the main villain of the series.",
@@ -541,7 +541,7 @@
   },
   {
     "id": "hp-5",
-    "topic": "Harry Potter",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "A Golden Snitch is a small winged ball used in Quidditch.",
@@ -559,7 +559,7 @@
   },
   {
     "id": "hp-6",
-    "topic": "Harry Potter",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "The train to Hogwarts leaves from Platform Nine and Three-Quarters.",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": "movies-1",
-    "topic": "Movies & Pop Culture",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "The famous line \"Luke, I am your father\" is a common misquote.",
@@ -1153,7 +1153,7 @@
   },
   {
     "id": "movies-2",
-    "topic": "Movies & Pop Culture",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "The shark in Jaws was nicknamed \"Bruce\" by the crew.",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "movies-3",
-    "topic": "Movies & Pop Culture",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Sean Connery was not the first actor ever to play James Bond on screen.",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": "movies-4",
-    "topic": "Movies & Pop Culture",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Titanic and Avatar were both directed by James Cameron.",
@@ -1207,7 +1207,7 @@
   },
   {
     "id": "movies-5",
-    "topic": "Movies & Pop Culture",
+    "topic": "Popular Movies",
     "statements": [
       {
         "text": "Pixar’s first feature film was Toy Story.",
@@ -1225,7 +1225,7 @@
   },
   {
     "id": "friends-1",
-    "topic": "Friends",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The show follows six friends living in New York City.",
@@ -1243,7 +1243,7 @@
   },
   {
     "id": "friends-2",
-    "topic": "Friends",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Ross and Monica Geller are brother and sister.",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "friends-3",
-    "topic": "Friends",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Phoebe performs a song called \"Smelly Cat.\"",
@@ -1279,7 +1279,7 @@
   },
   {
     "id": "friends-4",
-    "topic": "Friends",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Rachel first appears in the pilot wearing a wedding dress.",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": "friends-5",
-    "topic": "Friends",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Ross says the wrong name at his wedding to Emily.",
@@ -1315,7 +1315,7 @@
   },
   {
     "id": "friends-6",
-    "topic": "Friends",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The theme song is \"I’ll Be There for You.\"",
@@ -1333,7 +1333,7 @@
   },
   {
     "id": "seinfeld-1",
-    "topic": "Seinfeld",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The show was famously described as being \"about nothing.\"",
@@ -1351,7 +1351,7 @@
   },
   {
     "id": "seinfeld-2",
-    "topic": "Seinfeld",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "George Costanza is one of Jerry’s closest friends.",
@@ -1369,7 +1369,7 @@
   },
   {
     "id": "seinfeld-3",
-    "topic": "Seinfeld",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Kramer is known for dramatically bursting through Jerry’s apartment door.",
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "seinfeld-4",
-    "topic": "Seinfeld",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "\"The Soup Nazi\" is a famous Seinfeld episode.",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": "seinfeld-5",
-    "topic": "Seinfeld",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Newman is a mail carrier and Jerry’s rival.",
@@ -1423,7 +1423,7 @@
   },
   {
     "id": "seinfeld-6",
-    "topic": "Seinfeld",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The show largely takes place in Jerry’s apartment and a local diner.",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": "office-1",
-    "topic": "The Office",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "The show is filmed in a mockumentary style.",
@@ -1459,7 +1459,7 @@
   },
   {
     "id": "office-2",
-    "topic": "The Office",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Michael Scott is the regional manager for much of the series.",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": "office-3",
-    "topic": "The Office",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Dwight Schrute owns and works on a beet farm.",
@@ -1495,7 +1495,7 @@
   },
   {
     "id": "office-4",
-    "topic": "The Office",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Dunder Mifflin is located in Scranton, Pennsylvania.",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "office-5",
-    "topic": "The Office",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Kevin is known for loving food and once spilling a huge pot of chili.",
@@ -1531,7 +1531,7 @@
   },
   {
     "id": "office-6",
-    "topic": "The Office",
+    "topic": "Popular Shows",
     "statements": [
       {
         "text": "Jim and Pam get married during the series.",

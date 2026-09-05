@@ -481,7 +481,7 @@ const SPORTS: Round[] = [
 const MOVIES: Round[] = [
   {
     id: 'movies-1',
-    topic: 'Movies & Pop Culture',
+    topic: 'Popular Movies',
     statements: [
       { text: 'The famous line "Luke, I am your father" is a common misquote.', isLie: false },
       { text: 'Toy Story was the first fully computer-animated feature film.', isLie: false },
@@ -490,7 +490,7 @@ const MOVIES: Round[] = [
   },
   {
     id: 'movies-2',
-    topic: 'Movies & Pop Culture',
+    topic: 'Popular Movies',
     statements: [
       { text: 'The shark in Jaws was nicknamed "Bruce" by the crew.', isLie: false },
       { text: 'Anthony Hopkins is on screen for well under 20 minutes in The Silence of the Lambs, yet won Best Actor.', isLie: false },
@@ -499,7 +499,7 @@ const MOVIES: Round[] = [
   },
   {
     id: 'movies-3',
-    topic: 'Movies & Pop Culture',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Sean Connery was not the first actor ever to play James Bond on screen.', isLie: false },
       { text: 'The Lion King was inspired in part by Shakespeare\u2019s Hamlet.', isLie: false },
@@ -508,7 +508,7 @@ const MOVIES: Round[] = [
   },
   {
     id: 'movies-4',
-    topic: 'Movies & Pop Culture',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Titanic and Avatar were both directed by James Cameron.', isLie: false },
       { text: 'The first feature-length animated film from Disney was Snow White and the Seven Dwarfs.', isLie: false },
@@ -517,7 +517,7 @@ const MOVIES: Round[] = [
   },
   {
     id: 'movies-5',
-    topic: 'Movies & Pop Culture',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Pixar\u2019s first feature film was Toy Story.', isLie: false },
       { text: 'The Marvel Cinematic Universe began with the 2008 film Iron Man.', isLie: false },
@@ -529,7 +529,7 @@ const MOVIES: Round[] = [
 const STAR_TREK: Round[] = [
   {
     id: 'trek-1',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Captain Kirk\u2019s middle name is Tiberius.', isLie: false },
       { text: 'Data is an android who serves aboard the USS Enterprise-D.', isLie: false },
@@ -538,7 +538,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-2',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The Vulcan salute was created by actor Leonard Nimoy.', isLie: false },
       { text: 'The USS Enterprise is powered by a warp drive.', isLie: false },
@@ -547,7 +547,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-3',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Jean-Luc Picard captains the Enterprise-D in The Next Generation.', isLie: false },
       { text: 'Star Trek: The Next Generation is set roughly a century after the original series.', isLie: false },
@@ -556,7 +556,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-4',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The Borg assimilate other species with the phrase "resistance is futile."', isLie: false },
       { text: 'Worf is a Klingon who serves in Starfleet.', isLie: false },
@@ -565,7 +565,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-5',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The holodeck creates realistic simulated environments using holograms.', isLie: false },
       { text: 'A phaser can be set to stun or to kill.', isLie: false },
@@ -574,7 +574,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-6',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Spock serves as science officer under Captain Kirk.', isLie: false },
       { text: 'Dr. McCoy is often called by the nickname "Bones."', isLie: false },
@@ -583,7 +583,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-7',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Q is a nearly omnipotent being who torments Captain Picard.', isLie: false },
       { text: 'Gene Roddenberry created Star Trek.', isLie: false },
@@ -592,7 +592,7 @@ const STAR_TREK: Round[] = [
   },
   {
     id: 'trek-8',
-    topic: 'Star Trek',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Scotty is the Enterprise\u2019s chief engineer in the original series.', isLie: false },
       { text: 'Sulu serves as the ship\u2019s helmsman.', isLie: false },
@@ -700,7 +700,7 @@ const TECH: Round[] = [
 const HARRY_POTTER: Round[] = [
   {
     id: 'hp-1',
-    topic: 'Harry Potter',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Harry Potter has a lightning-bolt scar on his forehead.', isLie: false },
       { text: 'Harry\u2019s pet is a snowy owl named Hedwig.', isLie: false },
@@ -709,7 +709,7 @@ const HARRY_POTTER: Round[] = [
   },
   {
     id: 'hp-2',
-    topic: 'Harry Potter',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Hermione Granger is known for being very clever and studious.', isLie: false },
       { text: 'Ron Weasley comes from a large family with red hair.', isLie: false },
@@ -718,7 +718,7 @@ const HARRY_POTTER: Round[] = [
   },
   {
     id: 'hp-3',
-    topic: 'Harry Potter',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Hogwarts has four houses: Gryffindor, Slytherin, Hufflepuff, and Ravenclaw.', isLie: false },
       { text: 'The sport played on broomsticks is called Quidditch.', isLie: false },
@@ -727,7 +727,7 @@ const HARRY_POTTER: Round[] = [
   },
   {
     id: 'hp-4',
-    topic: 'Harry Potter',
+    topic: 'Popular Movies',
     statements: [
       { text: 'Lord Voldemort is the main villain of the series.', isLie: false },
       { text: 'Albus Dumbledore is the headmaster of Hogwarts.', isLie: false },
@@ -736,7 +736,7 @@ const HARRY_POTTER: Round[] = [
   },
   {
     id: 'hp-5',
-    topic: 'Harry Potter',
+    topic: 'Popular Movies',
     statements: [
       { text: 'A Golden Snitch is a small winged ball used in Quidditch.', isLie: false },
       { text: 'Hagrid is the Hogwarts gamekeeper and loves magical creatures.', isLie: false },
@@ -745,7 +745,7 @@ const HARRY_POTTER: Round[] = [
   },
   {
     id: 'hp-6',
-    topic: 'Harry Potter',
+    topic: 'Popular Movies',
     statements: [
       { text: 'The train to Hogwarts leaves from Platform Nine and Three-Quarters.', isLie: false },
       { text: 'Severus Snape teaches at Hogwarts.', isLie: false },
@@ -757,7 +757,7 @@ const HARRY_POTTER: Round[] = [
 const FRIENDS: Round[] = [
   {
     id: 'friends-1',
-    topic: 'Friends',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The show follows six friends living in New York City.', isLie: false },
       { text: 'Central Perk is the coffee house where the friends often hang out.', isLie: false },
@@ -766,7 +766,7 @@ const FRIENDS: Round[] = [
   },
   {
     id: 'friends-2',
-    topic: 'Friends',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Ross and Monica Geller are brother and sister.', isLie: false },
       { text: 'Joey is an aspiring actor known for the line "How you doin\u2019?"', isLie: false },
@@ -775,7 +775,7 @@ const FRIENDS: Round[] = [
   },
   {
     id: 'friends-3',
-    topic: 'Friends',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Phoebe performs a song called "Smelly Cat."', isLie: false },
       { text: 'Ross is a paleontologist who studies dinosaurs.', isLie: false },
@@ -784,7 +784,7 @@ const FRIENDS: Round[] = [
   },
   {
     id: 'friends-4',
-    topic: 'Friends',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Rachel first appears in the pilot wearing a wedding dress.', isLie: false },
       { text: 'Monica is known for being very neat and competitive.', isLie: false },
@@ -793,7 +793,7 @@ const FRIENDS: Round[] = [
   },
   {
     id: 'friends-5',
-    topic: 'Friends',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Ross says the wrong name at his wedding to Emily.', isLie: false },
       { text: 'Chandler is known for his sarcastic sense of humor.', isLie: false },
@@ -802,7 +802,7 @@ const FRIENDS: Round[] = [
   },
   {
     id: 'friends-6',
-    topic: 'Friends',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The theme song is "I\u2019ll Be There for You."', isLie: false },
       { text: 'Ross and Rachel have a daughter named Emma.', isLie: false },
@@ -814,7 +814,7 @@ const FRIENDS: Round[] = [
 const SEINFELD: Round[] = [
   {
     id: 'seinfeld-1',
-    topic: 'Seinfeld',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The show was famously described as being "about nothing."', isLie: false },
       { text: 'Jerry Seinfeld plays a version of himself as a comedian.', isLie: false },
@@ -823,7 +823,7 @@ const SEINFELD: Round[] = [
   },
   {
     id: 'seinfeld-2',
-    topic: 'Seinfeld',
+    topic: 'Popular Shows',
     statements: [
       { text: 'George Costanza is one of Jerry\u2019s closest friends.', isLie: false },
       { text: 'Kramer is Jerry\u2019s eccentric neighbor.', isLie: false },
@@ -832,7 +832,7 @@ const SEINFELD: Round[] = [
   },
   {
     id: 'seinfeld-3',
-    topic: 'Seinfeld',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Kramer is known for dramatically bursting through Jerry\u2019s apartment door.', isLie: false },
       { text: 'The phrase "yada yada yada" was popularized by the show.', isLie: false },
@@ -841,7 +841,7 @@ const SEINFELD: Round[] = [
   },
   {
     id: 'seinfeld-4',
-    topic: 'Seinfeld',
+    topic: 'Popular Shows',
     statements: [
       { text: '"The Soup Nazi" is a famous Seinfeld episode.', isLie: false },
       { text: 'George often schemes to get out of work or awkward situations.', isLie: false },
@@ -850,7 +850,7 @@ const SEINFELD: Round[] = [
   },
   {
     id: 'seinfeld-5',
-    topic: 'Seinfeld',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Newman is a mail carrier and Jerry\u2019s rival.', isLie: false },
       { text: 'A famous episode revolves around a contest of self-restraint.', isLie: false },
@@ -859,7 +859,7 @@ const SEINFELD: Round[] = [
   },
   {
     id: 'seinfeld-6',
-    topic: 'Seinfeld',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The show largely takes place in Jerry\u2019s apartment and a local diner.', isLie: false },
       { text: 'Elaine is known for her distinctive, wild dance moves in one episode.', isLie: false },
@@ -871,7 +871,7 @@ const SEINFELD: Round[] = [
 const THE_OFFICE: Round[] = [
   {
     id: 'office-1',
-    topic: 'The Office',
+    topic: 'Popular Shows',
     statements: [
       { text: 'The show is filmed in a mockumentary style.', isLie: false },
       { text: 'It is set at a paper company called Dunder Mifflin.', isLie: false },
@@ -880,7 +880,7 @@ const THE_OFFICE: Round[] = [
   },
   {
     id: 'office-2',
-    topic: 'The Office',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Michael Scott is the regional manager for much of the series.', isLie: false },
       { text: 'Jim and Pam have a well-known romance across the show.', isLie: false },
@@ -889,7 +889,7 @@ const THE_OFFICE: Round[] = [
   },
   {
     id: 'office-3',
-    topic: 'The Office',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Dwight Schrute owns and works on a beet farm.', isLie: false },
       { text: 'The U.S. version is based on a British show of the same name.', isLie: false },
@@ -898,7 +898,7 @@ const THE_OFFICE: Round[] = [
   },
   {
     id: 'office-4',
-    topic: 'The Office',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Dunder Mifflin is located in Scranton, Pennsylvania.', isLie: false },
       { text: 'Jim frequently plays pranks on Dwight.', isLie: false },
@@ -907,7 +907,7 @@ const THE_OFFICE: Round[] = [
   },
   {
     id: 'office-5',
-    topic: 'The Office',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Kevin is known for loving food and once spilling a huge pot of chili.', isLie: false },
       { text: 'Steve Carell played Michael Scott.', isLie: false },
@@ -916,7 +916,7 @@ const THE_OFFICE: Round[] = [
   },
   {
     id: 'office-6',
-    topic: 'The Office',
+    topic: 'Popular Shows',
     statements: [
       { text: 'Jim and Pam get married during the series.', isLie: false },
       { text: 'Andy Bernard is known for his anger issues and a cappella singing.', isLie: false },
